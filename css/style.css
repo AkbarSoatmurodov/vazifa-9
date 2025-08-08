@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+header{
+    background-image: url(../images/rasm6.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    padding-bottom: 43px;
+    padding-top: 43px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+        gap: 32px;
+}
+.velo{
+    font-size: 110px;
+    color: white;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+.malumot{
+    color: white;
+    font-size: 18px;   
+    padding-top: 48px;
+    padding-left: 20px; 
+}
+.btn{
+    width: 180px;
+    height: 52px;
+    background-color: #F57520;
+    border-radius: 10px;
+    gap: 10px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 236px;
+}
+.hero{
+        width: 1280px;
+            margin-left: auto;
+            margin-right: auto;
+            
+            justify-content: space-between;
+            align-items: center;
+}
+#velo{
+    background-image: url(../images/velo.png);
+    height: 533px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.brendlar{
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.velosiped{
+ display: flex;
+}
+.zero{
+    width: 1280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 98px;
+    margin-bottom: 168px;
+}
+.team{
+    padding-top: 16px;
+    padding-bottom: 24px;
+    font-size: 18px;
+}
+.p840{
+    padding-top: 24px;
+    padding-bottom: 168px;
+    font-size: 16px;
+}
+.one{
+    width: 368px;
+    height: 287px;
+}
+#info{
+    background-image: url(../images/tabiat.png);
+        background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+}
+#logotip{
+    background-image: url(../images/qora\ rasm.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.edit{   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 165px;
+    margin-bottom: 40px;
+    color: white;
+}
+.px665{
+    width: 665px; 
+    height: 635px;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+#view{
+    background-image: url(../images/tabiat.png);
+    height: 533px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.file{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    gap: 30px;
+}
+#map{
+    background-image: url(../map\ \(1\).png);
+    height: 500px;
+        background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+}
